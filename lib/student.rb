@@ -25,4 +25,8 @@ class Student
         DB[:conn].execute(sql)
   end 
   
+  def sefl.drop_table
+    
+  end 
+  
 end
